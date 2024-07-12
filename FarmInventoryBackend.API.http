@@ -1,0 +1,6 @@
+@FarmInventoryBackend.API_HostAddress = http://localhost:5256
+
+GET {{FarmInventoryBackend.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
